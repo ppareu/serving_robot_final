@@ -1,0 +1,8 @@
+# Request
+int32 table_num     # 테이블 번호
+string[] items      # 주문 내역
+
+---
+# Response
+bool success        # 주문 성공 여부
+string message      # 주문 상태 메시지
