@@ -88,5 +88,6 @@
 
 ---
 
-**첨부 자료:** 프로젝트 코드 및 시연 영상 링크 : https://www.youtube.com/watch?v=L6RjKTYL3p0
-
+**첨부 자료** 
+- 프로젝트 코드 및 시연 영상 링크 : https://www.youtube.com/watch?v=L6RjKTYL3p0
+- 개발 블로그 : https://ppareu.tistory.com/2
